@@ -245,7 +245,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **Harness-IF** — Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents [[Paper]](https://arxiv.org/abs/2608.11727)
 - (arXiv 2026) **Evo-Bench** — Evo-Bench: Can Language Models Improve Agent Harness? [[Paper]](https://arxiv.org/abs/2608.09096)
 
-#### Loop Structure
+#### Loop Architecture
 
 - (arXiv 2024) **StateFlow** — StateFlow: Enhancing LLM Task-Solving through State-Driven Workflows [[Paper]](https://arxiv.org/abs/2403.11322)
 - (arXiv 2024) **Magentic-One** — Magentic-one: A generalist multi-agent system for solving complex tasks [[Paper]](https://arxiv.org/abs/2411.04468)
