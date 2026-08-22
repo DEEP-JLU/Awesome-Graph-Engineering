@@ -46,8 +46,8 @@ Graph Engineering provides a structured path from standalone model capability to
       - [Memory Management](#memory-management)
       - [Skill Composition](#skill-composition)
       - [Runtime Orchestration](#runtime-orchestration)
-      - [Loop Structure](#loop-structure)
-      - [Interaction Protocol](#interaction-protocol)
+      - [Loop Architecture](#loop-architecture)
+      - [Interaction Paradigm](#interaction-paradigm)
       - [Environment Feedback](#environment-feedback)
     - [System Intelligence](#system-intelligence)
       - [Task Organization](#task-organization)
@@ -274,7 +274,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **ResearchLoop** — ResearchLoop: An Evidence-Gated Control Plane for AI-Assisted Research [[Paper]](https://arxiv.org/abs/2605.28282)
 - (arXiv 2026) **Proof-or-Stop** — Proof-or-Stop: Don't Trust the Agent, Trust the Evidence – Loop Engineering for Verifiable Evidence-Gated Lifecycle Control [[Paper]](https://arxiv.org/abs/2607.14890)
 
-#### Interaction Protocol
+#### Interaction Paradigm
 
 - (arXiv 2026) **Beyond Message Passing** — Beyond Message Passing: A Semantic View of Agent Communication Protocols [[Paper]](https://arxiv.org/abs/2604.02369)
 - (Paper 2025) **Internet of Agents** — Internet of Agents: Fundamentals, Applications, and Challenges [[Paper]](https://arxiv.org/abs/2505.07176)
