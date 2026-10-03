@@ -108,6 +108,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (OpenReview Archive 2026) Self-Improving Agents in the Era of Experience: A Survey of Self- to Meta-Evolution [[Paper]](https://openreview.net/forum?id=IUltZSgLMm)
 - (arXiv 2025) Multi-Agent Collaboration Mechanisms: A Survey of LLMs [[Paper]](https://arxiv.org/abs/2501.06322)
 - (arXiv 2026) Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2605.14892)
+- (SSRN 2026) The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents [[Paper]](https://ssrn.com/abstract=7186738)
 
 ## 📜 Research Papers
 
