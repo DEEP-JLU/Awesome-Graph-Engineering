@@ -618,6 +618,7 @@ Reusable projects grouped by their primary engineering target:
 - [CAMEL](https://github.com/camel-ai/camel)
 - [Mastra](https://github.com/mastra-ai/mastra)
 - [GPTSwarm](https://github.com/metauto-ai/GPTSwarm)
+- [Raven](https://github.com/EverMind-AI/Raven)
 
 #### Ontology Engineering
 
