@@ -244,7 +244,8 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **Memori** — Memori: A Persistent Memory Layer for Efficient, Context-Aware LLM Agents [[Paper]](https://arxiv.org/abs/2603.19935)
 - (arXiv 2026) **LycheeMemory V2** — LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation [[Paper]](https://arxiv.org/abs/2608.12990)
 - (arXiv 2024) **Agent Workflow Memory** — Agent Workflow Memory [[Paper]](https://arxiv.org/abs/2409.07429)
-
+- (Zenodo 2026) **The Context Oscillator** — The Context Oscillator: Why AI Memory Should Breathe [[Archive]](https://zenodo.org/records/21811408)
+  
 #### Skill Composition
 
 - (arXiv 2023) **Voyager** — Voyager: An Open-Ended Embodied Agent with Large Language Models [[Paper]](https://arxiv.org/abs/2305.16291)
