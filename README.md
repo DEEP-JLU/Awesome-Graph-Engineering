@@ -258,6 +258,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **Skill-Use** — Skill-Use: Can LLMs Actually Use Skills in Agentic Harnesses? [[Paper]](https://arxiv.org/abs/2608.04828)
 - (arXiv 2026) **HDSO** — Hypothesis-Driven Skill Optimization for LLM Agents [[Paper]](https://arxiv.org/abs/2606.22330)
 - (arXiv 2026) **Demystifying Agent Skills** — Demystifying Agent Skills: Why They Work—Until They Don't [[Paper]](https://arxiv.org/abs/2608.14036)
+- (Zenodo 2026) **The Context Oscillator** — The Context Oscillator: Why AI Memory Should Breathe [[Archive]](https://zenodo.org/records/21811408)
 
 #### Runtime Orchestration
 
@@ -303,7 +304,8 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **Stop Hand-Holding Your Coding Agent** — Stop Hand-Holding Your Coding Agent: Engineering the Loops That Replace Step-by-Step Prompting [[Paper]](https://arxiv.org/abs/2607.00038)
 - (arXiv 2026) **ResearchLoop** — ResearchLoop: An Evidence-Gated Control Plane for AI-Assisted Research [[Paper]](https://arxiv.org/abs/2605.28282)
 - (arXiv 2026) **Proof-or-Stop** — Proof-or-Stop: Don't Trust the Agent, Trust the Evidence – Loop Engineering for Verifiable Evidence-Gated Lifecycle Control [[Paper]](https://arxiv.org/abs/2607.14890)
-
+- (Technical manuscript 2026) **The Ghost in the Scaffolding** [[Manuscript]](https://github.com/jtrthehax/Dual-Substrate-Cognition-Architecture/blob/main/The%20Ghost%20in%20the%20Scaffolding.md)
+  
 #### Interaction Paradigm
 
 - (arXiv 2026) **Beyond Message Passing** — Beyond Message Passing: A Semantic View of Agent Communication Protocols [[Paper]](https://arxiv.org/abs/2604.02369)
@@ -481,6 +483,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **Meta-Team** — Evolve as a Team: Collaborative Self-Evolution for LLM-based Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2605.29790)
 - (arXiv 2026) **DyTopo** — DyTopo: Dynamic topology routing for multi-agent reasoning via semantic matching [[Paper]](https://arxiv.org/abs/2602.06039)
 - (arXiv 2026) **CARD** — CARD: Towards Conditional Design of Multi-agent Topological Structures [[Paper]](https://arxiv.org/abs/2603.01089)
+- (Technical manuscript 2026) **The Loop Is the Intelligence** [[Manuscript]](https://github.com/jtrthehax/manifold-schema/blob/main/specification/the_loop_is_the_intelligence.md)
 
 #### Ontology Engineering
 
@@ -496,7 +499,8 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **Ontology-to-Tools** — Ontology-to-tools compilation for executable semantic constraint enforcement in LLM agents [[Paper]](https://arxiv.org/abs/2602.03439)
 - (Semantic Web 2026) **Ontology SLR** — Large language models for ontology engineering: a systematic literature review [[Paper]](https://scholar.google.com/scholar?q=Large+language+models+for+ontology+engineering%3A+a+systematic+literature+review)
 - (arXiv 2026) **Palantir Ontology** — The Ontology System [[Paper]](https://www.palantir.com/docs/foundry/architecture-center/ontology-system)
-
+- (Zenodo 2026) **The Hallucination You Are Having Right Now** [[Archive]](https://zenodo.org/records/21922044)
+  
 ## 🏆 Benchmarks, Datasets, and Environments
 
 Representative evaluation resources from the survey:
