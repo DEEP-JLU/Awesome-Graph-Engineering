@@ -579,6 +579,7 @@ Representative evaluation resources from the survey:
 - [MASEval](https://aclanthology.org/2026.acl-demo.34/)
 - [MAS-PromptBench](https://arxiv.org/abs/2606.23664)
 - [BenchAgent](https://arxiv.org/abs/2606.05670)
+- [PerspectiveGap](https://arxiv.org/abs/2606.08878)
 
 ## 💻 Open-Source Libraries
 
@@ -651,6 +652,9 @@ Representative systems and application domains covered by the survey:
 - [Virtual Lab](https://doi.org/10.1038/s41586-025-09442-9)
 - [Co-Scientist](https://doi.org/10.1038/s41586-026-10644-y)
 - [Robin](https://doi.org/10.1038/s41586-026-10652-y)
+- [Agon](https://github.com/AutoResearch-Factory/Agon)
+- [AutoNumerics](https://arxiv.org/abs/2602.17607)
+- [OptimAI](https://arxiv.org/abs/2504.16918)
 
 ### Healthcare and Clinical Decision Support
 
