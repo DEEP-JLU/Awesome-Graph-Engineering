@@ -548,6 +548,7 @@ Representative evaluation resources from the survey:
 - [OpenClawBench](https://arxiv.org/abs/2605.29253)
 - [BenchTrace](https://arxiv.org/abs/2605.29225)
 - [TheAgentCompany](https://arxiv.org/abs/2412.14161)
+- [SciΠvot](https://arxiv.org/abs/2610.21082)
 
 ### System Intelligence
 
@@ -655,6 +656,8 @@ Representative systems and application domains covered by the survey:
 - [Agon](https://github.com/AutoResearch-Factory/Agon)
 - [AutoNumerics](https://arxiv.org/abs/2602.17607)
 - [OptimAI](https://arxiv.org/abs/2504.16918)
+- [AutoSR](https://arxiv.org/abs/2608.16876)
+- [AgonAlpha](https://arxiv.org/abs/2608.11250)
 
 ### Healthcare and Clinical Decision Support
 
