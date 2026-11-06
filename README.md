@@ -607,6 +607,7 @@ Reusable projects grouped by their primary engineering target:
 - [Apache Burr](https://github.com/apache/burr)
 - [Letta Agent SDK](https://github.com/letta-ai/letta-agent-sdk)
 - [Graphiti](https://github.com/getzep/graphiti)
+- [sqlite-graph-memory](https://github.com/tonydzi/sqlite-graph-memory)
 - [MCP Python SDK](https://github.com/modelcontextprotocol/python-sdk)
 - [Langflow](https://github.com/langflow-ai/langflow)
 - [Dify](https://github.com/langgenius/dify)
