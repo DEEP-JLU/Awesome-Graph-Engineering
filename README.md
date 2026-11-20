@@ -422,6 +422,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **CARD** — CARD: Towards Conditional Design of Multi-agent Topological Structures [[Paper]](https://arxiv.org/abs/2603.01089)
 - (arXiv 2026) **QueenBee Planner** — QueenBee Planner: Skill-Evolving Communication Topologies for Token-Efficient LLM Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2606.27492)
 - (arXiv 2026) **Agentic Aggregation** — Agentic aggregation for parallel scaling of long-horizon agentic tasks [[Paper]](https://arxiv.org/abs/2604.11753)
+- (STAI-X 2026) **NeuroMAS** — NeuroMAS: Multi-Agent Systems as Neural Networks with Joint Reinforcement Learning [[Paper]](https://arxiv.org/abs/2605.16757) [[Code]](https://github.com/haoranlustat/NeuroMAS)
 
 #### State Management
 
