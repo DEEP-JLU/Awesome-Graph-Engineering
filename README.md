@@ -366,6 +366,7 @@ Graph Engineering provides a structured path from standalone model capability to
   <p><em>Agent Coordination through capability mapping, team organization, and communication structures.</em></p>
 </div>
 
+- (ICLR 2026) **Graph-of-Agents** - Graph-of-Agents: A Graph-based Framework for Multi-Agent LLM Collaboration  [[Paper]](https://arxiv.org/pdf/2604.17148)
 - (NeurIPS 2023) **CAMEL** — CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society [[Paper]](https://proceedings.neurips.cc/paper/2023/hash/a3621ee907def47c1b952ade25c67698-Abstract-Conference.html)
 - (COLM 2024) **DyLAN** — A dynamic LLM-powered agent network for task-oriented agent collaboration [[Paper]](https://arxiv.org/abs/2310.02170)
 - (ICLR 2025) **Agent-Oriented Planning** — Agent-oriented planning in multi-agent systems [[Paper]](https://arxiv.org/abs/2410.02189)
