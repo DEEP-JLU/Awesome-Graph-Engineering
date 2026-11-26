@@ -293,6 +293,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2026) **The Scaffold Effect** — The Scaffold Effect in Coding Agents: Harness Choice as a Hidden Variable in Coding-Agent Evaluation [[Paper]](https://arxiv.org/abs/2607.22585)
 - (arXiv 2026) **Harness-IF** — Harness-IF: Evaluating Instruction Following Across Instruction Surfaces in Coding Agents [[Paper]](https://arxiv.org/abs/2608.11727)
 - (arXiv 2026) **Evo-Bench** — Evo-Bench: Can Language Models Improve Agent Harness? [[Paper]](https://arxiv.org/abs/2608.09096)
+- (Preprints.org 2026) **Harness Layer (CAR)** — Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime [[Paper]](https://doi.org/10.20944/preprints202603.1756.v2)
 
 #### Loop Architecture
 
