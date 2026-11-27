@@ -109,6 +109,7 @@ Graph Engineering provides a structured path from standalone model capability to
 - (arXiv 2025) Multi-Agent Collaboration Mechanisms: A Survey of LLMs [[Paper]](https://arxiv.org/abs/2501.06322)
 - (arXiv 2026) Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems [[Paper]](https://arxiv.org/abs/2605.14892)
 - (SSRN 2026) The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents [[Paper]](https://ssrn.com/abstract=7186738)
+- (Preprint 2026) What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification [[Paper]](https://www.researchgate.net/publication/406952713_What%27s_Missing_in_Autonomous_Research_A_Systematization_of_SystemsBenchmarks_and_Verification) [[Project]](https://haizhaoyang.github.io/research/autoresearch-survey.html)
 
 ## 📜 Research Papers
 
